@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/css/rss20.xsl" type="text/xsl"?>
+<rss xmlns:pheedo="http://www.pheedo.com/namespace/pheedo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+	<channel>
+		<title>NYT &gt; Sports</title>
+		<link>http://www.nytimes.com/pages/sports/index.html?partner=rss</link>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Sports.xml"/>
+		<description/>
+		<language>en-us</language>
+		<copyright>Copyright 2009
+ The New York Times Company</copyright>
+		<lastBuildDate>Wed, 22 Apr 2009 18:30:28 GMT
+</lastBuildDate>
+		<image>
+			<title>NYT &gt; Sports</title>
+			<url>http://graphics.nytimes.com/images/section/NytSectionHeader.gif</url>
+			<link>http://www.nytimes.com/pages/sports/index.html?partner=rss</link>
+		</image>
+		<item>
+			<title>Baseball Ties Its Olympic Proposal to Women&#x2019;s Game</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=51e469212a662accd2bf3931054b13c0</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/23/sports/othersports/23olympics.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/23/sports/othersports/23olympics.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/23/sports/23olympics.1.75.jpg" medium="image" height="75" width="75"/>
+			<media:description>The United States baseball team took home the Bronze medal in Beijing in 2008. Baseball was dropped from the 2012 Summer Games in London.</media:description>
+			<media:credit>Danny Bright for The New York Times</media:credit>
+			<description>Baseball officials have aligned with the relatively seldom-played game of women&#x2019;s baseball to burnish its chances of gaining re-entry into the Olympics.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=51e469212a662accd2bf3931054b13c0&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=51e469212a662accd2bf3931054b13c0&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JER&#xC9; LONGMAN</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 17:30:09 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Softball</category>
+		</item>
+		<item>
+			<title>Is This Seat Taken? In Front Rows of New Ballparks, No</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=276ca2a381dfd4b3bc010845e0d69cfc</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/baseball/22tickets.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/baseball/22tickets.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/21/sports/22baseball_75.jpg" medium="image" height="75" width="75"/>
+			<media:description>At Yankee Stadium last week, fans in a crowded section pointed toward a foul ball in the sparsely populated premium seats. </media:description>
+			<media:credit>Julie Jacobson/Associated Press</media:credit>
+			<description>The Mets and the Yankees failed to sell about 5,000 tickets &#x2014; including some of the priciest seats &#x2014; to each of their first few games after last week&#x2019;s openers.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=276ca2a381dfd4b3bc010845e0d69cfc&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=276ca2a381dfd4b3bc010845e0d69cfc&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By KEN BELSON</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 17:18:22 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Citi Field (NYC)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Yankee Stadium (NYC)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Yankees</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Mets</category>
+		</item>
+		<item>
+			<title>Pettitte Maintains His Composure</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=eba16a6af0c5e957dde7fae83b8735f5</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/baseball/22yankees.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/baseball/22yankees.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/22/sports/22yankees.1.75.jpg" medium="image" height="75" width="75"/>
+			<media:description>Andy Pettitte throwing out Oakland's Orlando Cabrera.  </media:description>
+			<media:credit>Barton Silverman/The New York Times</media:credit>
+			<description>Just as in Andy Pettitte&#x2019;s two previous starts this season, his efficient performance Tuesday night took the Yankees into the eighth and made Girardi&#x2019;s bullpen decisions easy.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=eba16a6af0c5e957dde7fae83b8735f5&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=eba16a6af0c5e957dde7fae83b8735f5&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JOSHUA ROBINSON</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 17:17:01 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pettitte, Andy</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Yankees</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Oakland Athletics</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+		</item>
+		<item>
+			<title>Pushing the Limit: Ultimate Board Champ Mixes Waves, Ice and Wheels</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=3b457fe35ecc32dba6c88566f515415b</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/othersports/22boarders.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/othersports/22boarders.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/21/sports/22boarding_75.jpg" medium="image" height="75" width="75"/>
+			<media:description>The Ultimate Boarder contest crowned an all-around champion earlier this month after bringing together 55 athletes, who competed in snowboarding, skateboarding, and surfing. </media:description>
+			<media:credit>Left, IJ Valenzula; center and right, Ann Johansson for The New York Times</media:credit>
+			<description>To crown an all-around championship of skateboarding, surfing and snowboarding, the Ultimate Boarder contest in Southern California attracted 55 competitors.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=3b457fe35ecc32dba6c88566f515415b&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=3b457fe35ecc32dba6c88566f515415b&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By MICHAEL BRICK</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 13:39:43 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Athletics and Sports</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Surfing</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Skateboards</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Snowboarding</category>
+		</item>
+		<item>
+			<title>As Draft Nears, Two Giants Receivers Hold On for Now</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=99c2162cb1983c39293ddc1ce28ecc0d</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/football/22giants.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/football/22giants.html</guid>
+			<description>As Domenik Hixon and Steve Smith go about their off-season conditioning at Giants Stadium, they hear the trade rumors and know they could be most affected.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=99c2162cb1983c39293ddc1ce28ecc0d&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=99c2162cb1983c39293ddc1ce28ecc0d&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JOE LAPOINTE</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 15:35:18 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Trades (Sports)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Giants</category>
+		</item>
+		<item>
+			<title>Capitals Put Their Trust in Little-Known Goaltender</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=3a7bf20e14615775161ac621e3d8e154</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/hockey/22capitals.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/hockey/22capitals.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/22/sports/22capitals.75.jpg" medium="image" height="75" width="75"/>
+			<media:description>Capitals goalie Simeon Varlamov has rarely been out of position in two games against the Rangers, stopping 56 of 57 shots.</media:description>
+			<media:credit>Barton Silverman/The New York Times</media:credit>
+			<description>Simeon Varlamov is 20, does not speak English and has played only eight games in the N.H.L, including a 33-save shutout Monday in a 4-0 victory over the Rangers.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=3a7bf20e14615775161ac621e3d8e154&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=3a7bf20e14615775161ac621e3d8e154&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JEFF Z. KLEIN</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 05:38:39 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hockey, Ice</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Washington Capitals</category>
+		</item>
+		<item>
+			<title>Derrick Rose&#x2019;s Agent a Big Assist Man Then and Now</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=d45e55080c41503c55305fa390b34df0</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/basketball/22bulls.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/basketball/22bulls.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/22/sports/22bulls.1.75.jpg" medium="image" height="75" width="75"/>
+			<media:description>Derrick Rose's 36 points in a Game 1 overtime upset of the Celtics tied Kareem Abdul-Jabbar&#x2019;s record for the most by a rookie in his first playoff game.</media:description>
+			<media:credit>Adam Hunger/Reuters</media:credit>
+			<description>In former Bulls point guard B.J. Armstrong, current Bulls point guard Derrick Rose found an agent who walked the path before him.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=d45e55080c41503c55305fa390b34df0&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=d45e55080c41503c55305fa390b34df0&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JONATHAN ABRAMS</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 14:27:20 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rose, Derrick</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Chicago Bulls</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Armstrong, B J</category>
+		</item>
+		<item>
+			<title>Roundup: Hurricanes Edge Devils and Tie Series on Last-Second Goal</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=3453b3e1af354b690aa4a2175983b3bb</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/hockey/22nhl.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/hockey/22nhl.html</guid>
+			<description>Jussi Jokinen deflected a slap shot by Dennis Seidenberg past Martin Brodeur with to give the Carolina Hurricanes a 4-3 victory over the visiting Devils and even their best-of-seven Eastern Conference series at 2-2.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=3453b3e1af354b690aa4a2175983b3bb&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=3453b3e1af354b690aa4a2175983b3bb&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By THE ASSOCIATED PRESS</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 05:21:31 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hockey, Ice</category>
+		</item>
+		<item>
+			<title>N.B.A. Roundup: James Lifts Cavaliers to 2-0 Lead</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=3423796bf83b4df65a2e7e2784c38159</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/basketball/22nba.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/basketball/22nba.html</guid>
+			<description>LeBron James scored 29 points as the host Cleveland Cavaliers withstood a stirring comeback for a 94-82 win.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=3423796bf83b4df65a2e7e2784c38159&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=3423796bf83b4df65a2e7e2784c38159&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By THE ASSOCIATED PRESS</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 06:49:26 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Howard, Dwight</category>
+		</item>
+		<item>
+			<title>Red Sox&#x2019;s Ortiz Goes From Fearsome to Worrisome</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=0fff9ef02ad64d11e916d5f1dcc0b7fb</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/baseball/22ortiz.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/baseball/22ortiz.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/22/sports/22ortiz.1.75.jpg" medium="image" height="75" width="75"/>
+			<media:description>David Ortiz has not come back from his struggles in last year&#x2019;s postseason, when he was barely a factor.</media:description>
+			<media:credit>CJ Gunther/European Pressphoto Agency</media:credit>
+			<description>Writing David Ortiz&#x2019;s baseball obituary is premature. But Ortiz&#x2019;s downturns are becoming frequent enough to raise broader questions.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=0fff9ef02ad64d11e916d5f1dcc0b7fb&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=0fff9ef02ad64d11e916d5f1dcc0b7fb&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ALAN SCHWARZ</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 05:43:46 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ortiz, David</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boston Red Sox</category>
+		</item>
+		<item>
+			<title>Cardinals 6, Mets 4: For Want of a Slide, the Game Is Lost</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=253a1a9a2ec3b1d054566c44a583ed7b</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/baseball/22mets.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/baseball/22mets.html</guid>
+			<description>In the eighth inning, Carlos Beltran, rather than slide on a close play at the plate, tried to score standing up and was tagged out, erasing what would have been the go-ahead run.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=253a1a9a2ec3b1d054566c44a583ed7b&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=253a1a9a2ec3b1d054566c44a583ed7b&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By BEN SHPIGEL</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 16:11:23 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Mets</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">St Louis Cardinals</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+		</item>
+		<item>
+			<title>The Mets&#x2019; Latest Catcher Makes a Good First Impression</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=a109fed3164361226f5e037d0f22c966</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/baseball/22metnotes.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/baseball/22metnotes.html</guid>
+			<description>In three games since being recalled, Omir Santos has flashed the solid defense and right-handed power that won him admirers throughout the clubhouse and front office.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=a109fed3164361226f5e037d0f22c966&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=a109fed3164361226f5e037d0f22c966&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By BEN SHPIGEL</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 02:42:27 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Mets</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+		</item>
+		<item>
+			<title>Wang Going to Tampa to Strengthen Arm</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=eac625abbf694659794bde060f9093be</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/baseball/22yanknotes.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/baseball/22yanknotes.html</guid>
+			<description>The Yankees said they plan to work Wang back to the dominant form he showed in 2007.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=eac625abbf694659794bde060f9093be&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=eac625abbf694659794bde060f9093be&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JOSHUA ROBINSON</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 01:19:08 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Yankees</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Chien-Ming</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+		</item>
+		<item>
+			<title>The Fifth Down: Draft Q. &amp; A. With Gil Brandt</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=07c66e1e9c424bc412e2716b83c6ed7e</link>
+			<pheedo:origLink>http://fifthdown.blogs.nytimes.com/2009/04/21/draft-q-a-with-gil-brandt/index.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://fifthdown.blogs.nytimes.com/2009/04/21/draft-q-a-with-gil-brandt/index.html</guid>
+			<description>Gil Brandt, a draft analyst with NFL.com and one of the pioneers in scouting and player analysis, answered reader questions Wednesday.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=07c66e1e9c424bc412e2716b83c6ed7e&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=07c66e1e9c424bc412e2716b83c6ed7e&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By THE NEW YORK TIMES</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 17:58:16 GMT</pubDate>
+		</item>
+		<item>
+			<title>Bats: Jackie Robinson on the Bases</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=14b2b9fdc8a54f270d13c2eb90b23bf0</link>
+			<pheedo:origLink>http://bats.blogs.nytimes.com/2009/04/22/robinson-on-the-bases/index.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://bats.blogs.nytimes.com/2009/04/22/robinson-on-the-bases/index.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/19/sports/19score.75.jpg" medium="image" height="75" width="75"/>
+			<media:description>Jackie Robinson sliding under Yogi Berra&#x2019;s tag to steal home in the eighth inning of Game 1 of the 1955 World Series at Yankee Stadium.</media:description>
+			<media:credit>John Rooney/Associated Press</media:credit>
+			<description>This Sunday&#x2019;s Keeping Score column on Jackie Robinson&#x2019;s attempted steals of home prompted a flood of reader responses.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=14b2b9fdc8a54f270d13c2eb90b23bf0&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=14b2b9fdc8a54f270d13c2eb90b23bf0&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By DAN ROSENHECK</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 18:28:42 GMT</pubDate>
+		</item>
+		<item>
+			<title>Leading Off: A Buzzer Beater Hits the Ice</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=dd03eed0dd6bb153e56c5695cadd7554</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/23/sports/23leading.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/23/sports/23leading.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/23/sports/23leading.75.jpg" medium="image" height="75" width="75"/>
+			<media:description>Martin Brodeur let one slip by with .2 seconds left on Tuesday night. </media:description>
+			<media:credit>Karl B. DeBlaker/Associated Press</media:credit>
+			<description>Carolina fans were tickled by a buzzer beater Tuesday night when Jussi Jokinen deflected a slap shot by Dennis Seidenberg past Devils goaltender Martin Brodeur with 0.2 seconds left.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=dd03eed0dd6bb153e56c5695cadd7554&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=dd03eed0dd6bb153e56c5695cadd7554&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By KEN PLUTNICKI</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 15:46:27 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hockey, Ice</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New Jersey Devils</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brodeur, Martin</category>
+		</item>
+		<item>
+			<title>TV Sports: Spike Lee Documentary an Encore Performance by Bryant</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=83e6bc3cf05704ba068b0f96e56412c4</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/basketball/22sandomir.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/basketball/22sandomir.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/22/sports/22sandomir.75.jpg" medium="image" height="75" width="75"/>
+			<media:description>Spike Lee said Kobe Bryant did the voice-over for a new documentary the night he scored 61 against the Knicks.</media:description>
+			<media:credit>Michael Appleton for The New York Times</media:credit>
+			<description>For Spike Lee&#x2019;s latest documentary, &#x201C;Kobe Doin&#x2019; Work,&#x201D; he persuaded Kobe Bryant to allow 30 cameras to follow him over the course of one game.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=83e6bc3cf05704ba068b0f96e56412c4&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=83e6bc3cf05704ba068b0f96e56412c4&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By RICHARD SANDOMIR</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 14:02:21 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, Spike</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bryant, Kobe</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Documentary Films and Programs</category>
+		</item>
+		<item>
+			<title>Sports of The Times: Soaring Into Court, Seeking Inclusion</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=99589294d13af3e572ca5bbaf4ee0c3b</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/sports/othersports/22araton.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/sports/othersports/22araton.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/22/sports/22araton.1.75.jpg" medium="image" height="75" width="75"/>
+			<media:description>Lindsey Van, left, and Canadian national team member Katie Willis at a press conference on March 25. The two are fighting for their sport to be part of the 2010 Vancouver Olympics. </media:description>
+			<media:credit>Jack Dempsey/Associated Press</media:credit>
+			<description>Here is what the I.O.C. bureaucrats do not comprehend: more than any other discipline, ski jumping is the most striking visual manifestation of the movement&#x2019;s self-styled identity.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=99589294d13af3e572ca5bbaf4ee0c3b&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=99589294d13af3e572ca5bbaf4ee0c3b&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By HARVEY ARATON</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 05:14:14 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Ski Jumping</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Van, Lindsey</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Olympic Committee</category>
+		</item>
+	</channel>
+</rss>

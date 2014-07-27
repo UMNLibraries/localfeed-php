@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/css/rss20.xsl" type="text/xsl"?>
+<rss xmlns:pheedo="http://www.pheedo.com/namespace/pheedo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+	<channel>
+		<title>NYT &gt; Science</title>
+		<link>http://www.nytimes.com/pages/science/index.html?partner=rss</link>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Science.xml"/>
+		<description/>
+		<language>en-us</language>
+		<copyright>Copyright 2009
+ The New York Times Company</copyright>
+		<lastBuildDate>Wed, 22 Apr 2009 18:05:37 GMT
+</lastBuildDate>
+		<image>
+			<title>NYT &gt; Science</title>
+			<url>http://graphics.nytimes.com/images/section/NytSectionHeader.gif</url>
+			<link>http://www.nytimes.com/pages/science/index.html?partner=rss</link>
+		</image>
+		<item>
+			<title>Astronomers Find Planet Closer to Size of Earth</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=1ccd77b43dee1239dd26f1db31dc774b</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/22/science/22planet.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/22/science/22planet.html</guid>
+			<description>European astronomers said Tuesday that they had discovered the smallest planet yet found orbiting another star.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=1ccd77b43dee1239dd26f1db31dc774b&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=1ccd77b43dee1239dd26f1db31dc774b&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By DENNIS OVERBYE</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 07:23:19 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Planets</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Space</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Solar System</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Astronomy and Astrophysics</category>
+		</item>
+		<item>
+			<title>Aerodynamics on Land: Aiming for 800 M.P.H.</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=85e9710259dd85415a2c724d868b3f60</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/science/21speed.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/science/21speed.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/21/science/21speed-75.jpg" medium="image" height="75" width="75"/>
+			<media:description>
+				<em class="bold">BUILT FOR SPEED</em>The North American Eagle on a 2007 test run in the desert at Black Rock, Nev., where next year Ed Shadle and his team will try to set a land speed record of about 800 m.p.h.</media:description>
+			<media:credit>Landspeed</media:credit>
+			<description>A group of volunteers intends to take a modified fighter jet to the hardpan desert at Black Rock, Nev., to set a land speed record.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=85e9710259dd85415a2c724d868b3f60&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=85e9710259dd85415a2c724d868b3f60&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By GUY GUGLIOTTA</dc:creator>
+			<pubDate>Wed, 22 Apr 2009 00:28:17 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Automobile Racing</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">land speed record</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
+		</item>
+		<item>
+			<title>Findings: Use Energy, Get Rich and Save the Planet</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=25e4d9eb0d369a6f884fac0100e4c41c</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/science/earth/21tier.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/science/earth/21tier.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/20/science/21tierney-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Viktor Koen</media:credit>
+			<description>The richer everyone gets, the greener the planet will be in the long run.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=25e4d9eb0d369a6f884fac0100e4c41c&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=25e4d9eb0d369a6f884fac0100e4c41c&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JOHN TIERNEY</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 18:01:20 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Environment</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Energy Efficiency</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+		</item>
+		<item>
+			<title>A Conversation With Richard Wrangham: From Studying Chimps, a Theory on Cooking</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=a403afacd713c9a154a3af0ab7d50e39</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/science/21conv.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/science/21conv.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/20/science/21conv-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Rick Friedman for The New York Times</media:credit>
+			<description>Richard Wrangham has spent four decades observing wild chimpanzees in Africa to see what their behavior might tell us about prehistoric humans.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=a403afacd713c9a154a3af0ab7d50e39&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=a403afacd713c9a154a3af0ab7d50e39&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By CLAUDIA DREIFUS</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 18:03:33 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wrangham, Richard</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Catching Fire: How Cooking Made Us Human (Book)</category>
+		</item>
+		<item>
+			<title>A First Look at the Bones of a &#x2018;Hobbit&#x2019;</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=c5badd7738fcf7bb73f97687a11b230e</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/science/21hobb.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/science/21hobb.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/21/science/21hobbit-75.jpg" medium="image" height="75" width="75"/>
+			<media:description>
+				<em class="bold">WEE ONE</em>A cast of a skeleton of Homo floresiensis, about three feet tall, will be on view on Long Island.</media:description>
+			<media:credit>Stony Brook University</media:credit>
+			<description>A cast of the skull and bones of the hominid Homo floresiensis will be displayed for the first time at a public symposium titled &#x201C;Hobbits in the Haystack.&#x201D;&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=c5badd7738fcf7bb73f97687a11b230e&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=c5badd7738fcf7bb73f97687a11b230e&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JOHN NOBLE WILFORD</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 18:05:29 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Archaeology and Anthropology</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Skeletons</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State University of New York at Stony Brook</category>
+		</item>
+		<item>
+			<title>As Wild Horses Breed, a Voice for Contraception</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=f16282d3a04ca0cf46f3319e9b1d5be3</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/science/21horse.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/science/21horse.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/21/science/21horses-75.jpg" medium="image" height="75" width="75"/>
+			<media:description>
+				<em class="bold">POPULATION CURB</em>Contraceptive darts were used on horses at the Black Hills Wild Horse Sanctuary in South Dakota.</media:description>
+			<media:credit>Anne Sherwood for The New York Times</media:credit>
+			<description>Birth-control shots offer an alternative to slaughter, but wildlife officials see limits.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=f16282d3a04ca0cf46f3319e9b1d5be3&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=f16282d3a04ca0cf46f3319e9b1d5be3&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JIM ROBBINS</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 18:08:08 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sterilization (Biological)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bureau of Land Management</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+		</item>
+		<item>
+			<title>Cases: A Bond Shaped by Illness, but Not Defined by It</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=b3722ae1927a79202a781827459413b0</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21case.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21case.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/21/science/21cases-75.jpg" medium="image" height="75" width="75"/>
+			<media:description>
+				<em class="bold">PATIENTS </em>Dana Jennings, who has been treated for prostate cancer, and his son Owen, 19, who had liver failure.</media:description>
+			<media:credit>David Frank/The New York Times</media:credit>
+			<description>A father and son, both affected by serious illnesses, look at each other and are pierced by a mutual sense of mortality.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=b3722ae1927a79202a781827459413b0&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=b3722ae1927a79202a781827459413b0&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By DANA JENNINGS</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 20:36:29 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Autoimmune Diseases</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Liver</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Prostate Gland</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cancer</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Parenting</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>More Wii Warriors Are Playing Hurt</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=1473c84a32b34c8ccd5eca732e0fe447</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21wii.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21wii.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/21/science/21wii-75.jpg" medium="image" height="75" width="75"/>
+			<media:description>
+				<em class="bold">A ROLL</em>Larry Priebe playing on a Wii in Crest Hill, Ill. Users have had sprained ankles and repetitive stress injuries.</media:description>
+			<media:credit>Sally Ryan for The New York Times</media:credit>
+			<description>A video game offers a little exercise, a little fun and, for some, a little ache the next day.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=1473c84a32b34c8ccd5eca732e0fe447&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=1473c84a32b34c8ccd5eca732e0fe447&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ANDREW DAS</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 16:27:04 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Wii (Video Game System)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sprains and Strains</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Medicine</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computer and Video Games</category>
+		</item>
+		<item>
+			<title>Sex Ratio Seen to Vary by Latitude</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=3618ad01e214e8057ac39de8173a0db5</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21sex.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21sex.html</guid>
+			<description>More boys are born, but that is less the case in the tropics.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=3618ad01e214e8057ac39de8173a0db5&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=3618ad01e214e8057ac39de8173a0db5&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By NICHOLAS BAKALAR</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 16:28:26 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Statistics</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Births</category>
+		</item>
+		<item>
+			<title>Avian Flu Cases in Egypt Raise Alarms</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=7c86dd323bcc805068ee148afa6d0219</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21flu.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21flu.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/21/science/21flu-75.jpg" medium="image" height="75" width="75"/>
+			<media:description>A woman in Menoufia, Egypt, bringing a chicken for a vaccination. Bird flu still exists in poultry in Egypt, Indonesia, China, Vietnam and on the India-Bangladesh border.</media:description>
+			<media:credit>Amr Dalsh/Reuters</media:credit>
+			<description>There is an unusual pattern of avian flu cases in Egypt, and experts hope these strange occurrences don&#x2019;t indicate silent cases.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=7c86dd323bcc805068ee148afa6d0219&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=7c86dd323bcc805068ee148afa6d0219&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By DONALD G. McNEIL Jr.</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 16:30:02 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Avian Influenza</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Youth</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Mind: To Fight Stigmas, Start With Treatment</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=4dd93ba3a032f67392c88633f7a1f916</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21mind.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21mind.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/20/health/21mind-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit/>
+			<description>Do campaigns to fight the stigmas surrounding mental illnesses work?&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=4dd93ba3a032f67392c88633f7a1f916&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=4dd93ba3a032f67392c88633f7a1f916&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By SALLY SATEL, M.D.</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 04:58:19 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Global Update: Polio: New Outbreak of Polio in Africa Prompts Appeal for Vaccine Financing</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=170545d3b1d3ad875c1d79463a694ae5</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21glob.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21glob.html</guid>
+			<description>Two strains of polio have quickly spread from northern Nigeria and northern India, and relief organizations are appealing for funds.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=170545d3b1d3ad875c1d79463a694ae5&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=170545d3b1d3ad875c1d79463a694ae5&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By DONALD G. McNEIL Jr.</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 04:57:33 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Poliomyelitis</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Vital Signs: Perceptions: No Hiding Underarm Odor From Women</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=cae5a3fbc19701255ddadbe2f82dbf31</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21perc.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21perc.html</guid>
+			<description>Women have a better sense of smell than men, at least when it comes to detecting underarm odor.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=cae5a3fbc19701255ddadbe2f82dbf31&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=cae5a3fbc19701255ddadbe2f82dbf31&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By NICHOLAS BAKALAR</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 05:16:29 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Odors</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Smell</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Women</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Vital Signs: Having a Baby: Activity May Decrease Length of Labor</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=66ddcb442914a992e2a8fbde59a6b35f</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/research/21baby.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/research/21baby.html</guid>
+			<description>Sitting, standing or walking around during labor may speed the process.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=66ddcb442914a992e2a8fbde59a6b35f&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=66ddcb442914a992e2a8fbde59a6b35f&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By NICHOLAS BAKALAR</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 05:16:43 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Obstetrics</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Vital Signs: Risks: Waist Size Strongly Tied to Heart Disease</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=b796cc6863572af32578a3b6dca115c3</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/research/21risk.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/research/21risk.html</guid>
+			<description>Even among people of normal weight, a large waist size significantly increases the risk for heart disease, a new study shows.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=b796cc6863572af32578a3b6dca115c3&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=b796cc6863572af32578a3b6dca115c3&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By NICHOLAS BAKALAR</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 17:48:17 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Obesity</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Observatory: West Is Told to Expect Water Shortfalls</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=943dfdfb9bfe3abc8b61836c3f2df707</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/science/21obriver.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/science/21obriver.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/21/science/21obriver-75.jpg" medium="image" height="75" width="75"/>
+			<media:description>To sustain Lake Mead, water delivery shortfalls will be necessary.</media:description>
+			<media:credit>Jim Wilson/The New York Times</media:credit>
+			<description>Researchers report that with warming temperatures, scheduled future water deliveries from the Colorado River are not sustainable.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=943dfdfb9bfe3abc8b61836c3f2df707&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=943dfdfb9bfe3abc8b61836c3f2df707&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By HENRY FOUNTAIN</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 04:49:26 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado River</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+		</item>
+		<item>
+			<title>Q &amp; A: Time&#x2019;s Winged Arrow</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=c2938d95f9d52a524322f8550cc4dc6e</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/science/21qna.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/science/21qna.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/20/science/21qna-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Victoria Roberts</media:credit>
+			<description>Why is it that as we age, time seems to race along?&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=c2938d95f9d52a524322f8550cc4dc6e&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=c2938d95f9d52a524322f8550cc4dc6e&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By C. CLAIBORNE RAY</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 04:45:03 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Time</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+		</item>
+		<item>
+			<title>Personal Health: Family Planning When Cancer Intrudes</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=899033c6cc421392496f8976a62c3631</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21brod.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21brod.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/20/health/21brody-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Yarek Waszul</media:credit>
+			<description>After a diagnosis of cancer, patients should be thinking about their future reproductive plans.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=899033c6cc421392496f8976a62c3631&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=899033c6cc421392496f8976a62c3631&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JANE E. BRODY</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 11:30:29 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cancer</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Reproduction (Biological)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Insemination</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">In Vitro Fertilization</category>
+		</item>
+		<item>
+			<title>Really?: The Claim: Weight Training Is Bad for Blood Pressure</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=b9690a3ac6650a68384648e0300aaf56</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21real.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21real.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/20/health/21real-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Leif Parsons</media:credit>
+			<description>Can lifting weights raise your blood pressure?&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=b9690a3ac6650a68384648e0300aaf56&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=b9690a3ac6650a68384648e0300aaf56&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ANAHAD O&#x2019;CONNOR</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 05:09:43 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Blood Pressure</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Weight Lifting</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hypertension</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Well: What Are Friends For? A Longer Life</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=6e62034bfaa636879d1618f26df55d54</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21well.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21well.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/20/health/21well-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Stuart Bradford</media:credit>
+			<description>Many people overlook a powerful weapon in the quest for better health: their friends.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=6e62034bfaa636879d1618f26df55d54&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=6e62034bfaa636879d1618f26df55d54&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By TARA PARKER-POPE</dc:creator>
+			<pubDate>Tue, 21 Apr 2009 22:40:32 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Women</category>
+		</item>
+		<item>
+			<title>Letters: The Risks of Antibiotics (2 Letters)</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=d1a60097b0596d5827636f186d22e1fe</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21letters-THERISKSOFAN_LETTERS.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21letters-THERISKSOFAN_LETTERS.html</guid>
+			<description>To the Editor:.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=d1a60097b0596d5827636f186d22e1fe&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=d1a60097b0596d5827636f186d22e1fe&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator/>
+			<pubDate>Tue, 21 Apr 2009 04:52:15 GMT</pubDate>
+		</item>
+		<item>
+			<title>Letters: Of Boys and Good Manners (1 Letter)</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=a85eeafe38de9d8eabddef24d0011f0f</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21letters-OFBOYSANDGOO_LETTERS.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21letters-OFBOYSANDGOO_LETTERS.html</guid>
+			<description>To the Editor:.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=a85eeafe38de9d8eabddef24d0011f0f&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=a85eeafe38de9d8eabddef24d0011f0f&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator/>
+			<pubDate>Tue, 21 Apr 2009 04:53:07 GMT</pubDate>
+		</item>
+		<item>
+			<title>Letters: Taking on a Tiny Pest (1 Letter)</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=27494f118ec073db75240b418ae48d58</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/21/health/21letters-TAKINGONATIN_LETTERS.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/21/health/21letters-TAKINGONATIN_LETTERS.html</guid>
+			<description>To the Editor:.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=27494f118ec073db75240b418ae48d58&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=27494f118ec073db75240b418ae48d58&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator/>
+			<pubDate>Tue, 21 Apr 2009 04:53:46 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
