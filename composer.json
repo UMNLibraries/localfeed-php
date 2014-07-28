@@ -1,5 +1,5 @@
 {
-  "name": "umnlib/localfeed-php",
+  "name": "umnlib/localfeed",
   "description": "A PHP package for processing local Atom/RSS files, as opposed to remote files over HTTP.",
   "keywords": [],
   "authors": [
