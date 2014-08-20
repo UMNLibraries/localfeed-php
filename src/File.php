@@ -6,53 +6,27 @@ use Symfony\Component\Finder\Finder;
 
 class File
 {
-  protected $downloadDirectory;
-  public function downloadDirectory()
+  protected $fileSet;
+  public function fileSet()
   {
-    return $this->downloadDirectory;
+    return $this->fileSet;
   }
-  public function setDownloadDirectory($downloadDirectory)
+  public function setFileSet($fileSet)
   {
-    if (!preg_match('/\/$/', $downloadDirectory)) {
-      $downloadDirectory .= '/';
-    }
-    $this->downloadDirectory = $downloadDirectory;
+    // TODO: Add validation!
+    $this->fileSet = $fileSet;
   }
 
-  public function __construct($downloadDirectory)
+  public function __construct($fileSet)
   {
-    $this->setDownloadDirectory($downloadDirectory);
+    $this->setFileSet($fileSet);
   }
 
   public function download($url)
   {
-    $fileString = file_get_contents($url);
-    $date = date("Ymd");
-    $fileIndex = $this->generateFileIndex();
-    $filename = $this->downloadDirectory() . "$date-$fileIndex.xml";
-    $file = fopen($filename, 'w');
-    if ($file == null) {
-      throw new \RuntimeException("Could not open file '$filename'");
-    }
-    fwrite($file, $fileString);
-  }
-
-  protected function generateFileIndex()
-  {
-    $date = date("Ymd");
-    $finder = new Finder();
-    $files = $finder->name('/^' . $date . '-\d+\.xml$/')->in($this->downloadDirectory());
-    $filenames = array();
-    foreach($files as $file) {
-      $filenames[] = $file->getRealPath();
-    }
-
-    $fileIndex = 1;
-    foreach ($filenames as $filename) {
-      $basename = basename($filename, '.xml');
-      list($date, $index) = preg_split('/-/', $basename);
-      if ($index >= $fileIndex) $fileIndex = $index + 1;
-    }
-    return $fileIndex;
+    $fileString = file_get_contents( $url );
+    $filename = $this->fileSet()->add();
+    file_put_contents($filename, $fileString);
+    return $filename;
   }
 }

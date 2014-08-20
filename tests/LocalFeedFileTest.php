@@ -3,6 +3,7 @@
 namespace UmnLib\Core\Tests;
 
 use UmnLib\Core\LocalFeed\File;
+use UmnLib\Core\File\Set\DateSequence;
 use Symfony\Component\Finder\Finder;
 
 class LocalFeedFileTest extends \PHPUnit_Framework_TestCase
@@ -15,7 +16,11 @@ class LocalFeedFileTest extends \PHPUnit_Framework_TestCase
 
   public function testDownload()
   {
-    $lff = new File($this->directory);
+    $fileSet = new DateSequence(array(
+      'directory' => $this->directory,
+      'suffix' => '.xml',
+    ));
+    $lff = new File($fileSet);
     $this->assertInstanceOf('\UmnLib\Core\LocalFeed\File', $lff);
     $lff->download('http://www.nytimes.com/services/xml/rss/nyt/Health.xml');
     $filenames = $this->getFilenames();
